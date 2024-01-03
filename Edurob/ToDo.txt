@@ -1,0 +1,5 @@
+ToDo:
+- Check Pinconfig of Powerbankconnectors
+- Motorverschraubungen anpassen -> M3 und Lötmutter
+- Drehrichtung der Lötmutter festlegen
+- Motorkennzeichnung drehen
