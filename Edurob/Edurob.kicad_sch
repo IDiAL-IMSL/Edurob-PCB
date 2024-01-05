@@ -171,6 +171,23 @@
     )
   )
 
+  (sheet (at 220.98 15.24) (size 26.67 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8fe867f9-2eb8-409a-92b2-4aa1b4b8adae)
+    (property "Sheetname" "GPIOExpander" (at 220.98 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "gpioExpander.kicad_sch" (at 220.98 28.5246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Edurob"
+        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9" (page "9"))
+      )
+    )
+  )
+
   (sheet (at 72.39 15.24) (size 27.94 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

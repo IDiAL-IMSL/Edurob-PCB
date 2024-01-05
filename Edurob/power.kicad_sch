@@ -1024,18 +1024,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
-          (reference "R6") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "R25") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "R30") (unit 1)
         )
@@ -1046,7 +1034,7 @@
   (symbol (lib_id "Device:LED") (at 38.1 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1d8d61e7-af1a-46b9-a5e6-02b9282c6219)
-    (property "Reference" "D2" (at 41.91 95.5675 90)
+    (property "Reference" "D5" (at 41.91 95.5675 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED" (at 41.91 98.1075 90)
@@ -1068,9 +1056,6 @@
     (pin "1" (uuid 8c36268c-11aa-49e1-95a7-9b3091049646))
     (instances
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "D2") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "D5") (unit 1)
         )
@@ -1081,7 +1066,7 @@
   (symbol (lib_id "Device:LED") (at 68.58 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1ffe92c9-6c96-443d-be81-9881bd12dc8e)
-    (property "Reference" "D2" (at 72.39 95.5675 90)
+    (property "Reference" "D8" (at 72.39 95.5675 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED" (at 72.39 98.1075 90)
@@ -1103,9 +1088,6 @@
     (pin "1" (uuid 4d9912b7-05e9-4a47-aa55-87a7109986f7))
     (instances
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "D2") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "D8") (unit 1)
         )
@@ -1227,7 +1209,7 @@
   (symbol (lib_id "Device:LED") (at 58.42 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3d0150b0-5898-4b88-be17-c9fac99240b9)
-    (property "Reference" "D2" (at 62.23 95.5675 90)
+    (property "Reference" "D7" (at 62.23 95.5675 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED" (at 62.23 98.1075 90)
@@ -1249,9 +1231,6 @@
     (pin "1" (uuid 136667eb-f710-443e-945e-9afbf87d9d88))
     (instances
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "D2") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "D7") (unit 1)
         )
@@ -1324,7 +1303,7 @@
   (symbol (lib_id "Device:LED") (at 27.94 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 67682552-d075-476c-9d34-509a068010d7)
-    (property "Reference" "D2" (at 31.75 95.5675 90)
+    (property "Reference" "D4" (at 31.75 95.5675 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED" (at 31.75 98.1075 90)
@@ -1346,9 +1325,6 @@
     (pin "1" (uuid 9c5c0271-e427-49d0-888f-2c94c2e89493))
     (instances
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "D2") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "D4") (unit 1)
         )
@@ -1411,18 +1387,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
-          (reference "R6") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "R25") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "R29") (unit 1)
         )
@@ -1485,18 +1449,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
-          (reference "R6") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "R25") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "R31") (unit 1)
         )
@@ -1528,18 +1480,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
-          (reference "R6") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "R25") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "R26") (unit 1)
         )
@@ -1603,18 +1543,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
-          (reference "R6") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "R25") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "R28") (unit 1)
         )
@@ -1625,7 +1553,7 @@
   (symbol (lib_id "Device:LED") (at 17.78 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b7cf67f8-854c-45c2-b46d-a859ebee5ed3)
-    (property "Reference" "D2" (at 21.59 95.5675 90)
+    (property "Reference" "D3" (at 21.59 95.5675 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED" (at 21.59 98.1075 90)
@@ -1647,9 +1575,6 @@
     (pin "1" (uuid 4c90592d-0a8f-443b-8925-4d2e8cb64c28))
     (instances
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "D2") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "D3") (unit 1)
         )
@@ -1712,18 +1637,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
-          (reference "R6") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "R25") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "R32") (unit 1)
         )
@@ -1781,18 +1694,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
-          (reference "R6") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "R25") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "R27") (unit 1)
         )
@@ -1803,7 +1704,7 @@
   (symbol (lib_id "Device:LED") (at 78.74 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f6f94297-f0a1-4bcf-91d1-805edaca783d)
-    (property "Reference" "D2" (at 82.55 95.5675 90)
+    (property "Reference" "D9" (at 82.55 95.5675 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED" (at 82.55 98.1075 90)
@@ -1825,9 +1726,6 @@
     (pin "1" (uuid 0b5071c5-5425-4652-92e0-8d36eb78462d))
     (instances
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "D2") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "D9") (unit 1)
         )
@@ -1838,7 +1736,7 @@
   (symbol (lib_id "Device:LED") (at 48.26 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fef44bcd-58f0-47a1-a84a-7b6ed21e6eb1)
-    (property "Reference" "D2" (at 52.07 95.5675 90)
+    (property "Reference" "D6" (at 52.07 95.5675 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED" (at 52.07 98.1075 90)
@@ -1860,9 +1758,6 @@
     (pin "1" (uuid 553af0b1-bab6-4070-94d9-916453a6eb63))
     (instances
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/b565ef5e-ebd0-4632-9832-ca713cd7c533"
-          (reference "D2") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/3d6529d3-09ba-43bd-8600-e24f0f302957"
           (reference "D6") (unit 1)
         )

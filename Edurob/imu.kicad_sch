@@ -346,6 +346,10 @@
     (stroke (width 0) (type default))
     (uuid 3efab3f2-7fe6-4dfe-87ae-6289e5735cf8)
   )
+  (wire (pts (xy 142.24 59.69) (xy 142.24 60.96))
+    (stroke (width 0) (type default))
+    (uuid 44411088-9012-4575-84fb-8b544660a58a)
+  )
   (wire (pts (xy 97.79 76.2) (xy 124.46 76.2))
     (stroke (width 0) (type default))
     (uuid 561bc568-ff99-4ac8-9600-21bde4335993)
@@ -381,6 +385,10 @@
   (wire (pts (xy 118.11 83.82) (xy 121.92 83.82))
     (stroke (width 0) (type default))
     (uuid 7eb46aa5-390a-40be-a43a-c9aa16cd200b)
+  )
+  (wire (pts (xy 139.7 59.69) (xy 139.7 60.96))
+    (stroke (width 0) (type default))
+    (uuid 82b4acec-2445-4e91-b310-c3b71347d06d)
   )
   (wire (pts (xy 139.7 102.87) (xy 139.7 104.14))
     (stroke (width 0) (type default))
@@ -569,9 +577,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/89de68d6-46a2-4637-9552-cf7ed3825f2a"
-          (reference "C9") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
           (reference "C10") (unit 1)
         )
@@ -630,12 +635,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
           (reference "R11") (unit 1)
         )
@@ -667,12 +666,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
           (reference "R6") (unit 1)
         )
@@ -757,12 +750,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
           (reference "R5") (unit 1)
         )
@@ -794,12 +781,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
           (reference "R33") (unit 1)
         )
@@ -831,12 +812,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9"
-          (reference "R1") (unit 1)
-        )
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/8aa2f8b0-d8d3-42d6-a936-678d5127e1c2"
-          (reference "R4") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
           (reference "R10") (unit 1)
         )
@@ -868,9 +843,6 @@
         )
       )
       (project "Edurob"
-        (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/89de68d6-46a2-4637-9552-cf7ed3825f2a"
-          (reference "C9") (unit 1)
-        )
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/172d60ec-c5c3-4534-881f-0378b6cc8d8f"
           (reference "C11") (unit 1)
         )

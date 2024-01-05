@@ -3,3 +3,4 @@ ToDo:
 - Motorverschraubungen anpassen -> M3 und Lötmutter
 - Drehrichtung der Lötmutter festlegen
 - Motorkennzeichnung drehen
+- Edurob zu EduRob ändern
