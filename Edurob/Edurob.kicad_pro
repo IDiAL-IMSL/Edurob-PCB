@@ -607,6 +607,10 @@
     [
       "8fe867f9-2eb8-409a-92b2-4aa1b4b8adae",
       "GPIOExpander"
+    ],
+    [
+      "6770bd19-f3f6-4cac-bf06-c00357c53349",
+      "Artwork"
     ]
   ],
   "text_variables": {}
