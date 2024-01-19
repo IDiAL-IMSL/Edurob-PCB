@@ -55,7 +55,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|206597987|36594388|4e661475-9956-49a4-80a2-99bd8d014995|ca416fd8-66c0-4319-8842-5e812baecf76",
+        "hole_clearance|206797987|36594388|4e661475-9956-49a4-80a2-99bd8d014995|4e958f2b-0e46-42f7-b1e8-48de7554a5de",
+        "hole_clearance|212197987|36594388|18e95893-06fe-42f8-a5f6-8416d31ecfaf|807be4d5-d323-4f44-b75e-9295ca0b9e85",
+        "hole_clearance|212397987|36594388|18e95893-06fe-42f8-a5f6-8416d31ecfaf|6b21f5f1-1160-4cbc-8f98-23de9910d21d"
+      ],
       "meta": {
         "version": 2
       },
@@ -128,7 +133,7 @@
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -193,7 +198,82 @@
       ],
       "zones_allow_external_fillets": false
     },
-    "layer_presets": [],
+    "layer_presets": [
+      {
+        "activeLayer": -2,
+        "layers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          59
+        ],
+        "name": "No Layers",
+        "renderLayers": [
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          160,
+          161,
+          164,
+          165
+        ]
+      }
+    ],
     "viewports": []
   },
   "boards": [],
