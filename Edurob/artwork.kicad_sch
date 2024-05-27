@@ -354,6 +354,9 @@
     (property "Sim.Enable" "0" (at 74.93 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Placed" "False" (at 74.93 31.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "Edurob"
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/6770bd19-f3f6-4cac-bf06-c00357c53349"
@@ -379,6 +382,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Sim.Enable" "0" (at 74.93 64.77 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Placed" "False" (at 74.93 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -408,6 +414,9 @@
     (property "Sim.Enable" "0" (at 123.19 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Placed" "False" (at 123.19 64.77 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "Edurob"
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/6770bd19-f3f6-4cac-bf06-c00357c53349"
@@ -418,7 +427,7 @@
   )
 
   (symbol (lib_id "Graphic:Logo_Open_Hardware_Large") (at 25.4 31.75 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
     (uuid 5c22fb04-a36b-432d-b2e0-743c10069835)
     (property "Reference" "LOGO5" (at 25.4 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -433,6 +442,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Sim.Enable" "0" (at 25.4 31.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Placed" "False" (at 25.4 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -462,6 +474,9 @@
     (property "Sim.Enable" "0" (at 123.19 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Placed" "False" (at 123.19 31.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "Edurob"
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/6770bd19-f3f6-4cac-bf06-c00357c53349"
@@ -487,6 +502,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Sim.Enable" "0" (at 50.8 31.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Placed" "False" (at 50.8 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -516,6 +534,9 @@
     (property "Sim.Enable" "0" (at 99.06 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Placed" "False" (at 99.06 31.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "Edurob"
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/6770bd19-f3f6-4cac-bf06-c00357c53349"
@@ -541,6 +562,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Sim.Enable" "0" (at 99.06 64.77 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Placed" "False" (at 99.06 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -570,6 +594,9 @@
     (property "Sim.Enable" "0" (at 50.8 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Placed" "False" (at 50.8 64.77 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "Edurob"
         (path "/ea495553-3cd2-4380-af57-b7ab16ec3dc9/6770bd19-f3f6-4cac-bf06-c00357c53349"
@@ -580,7 +607,7 @@
   )
 
   (symbol (lib_id "Graphic:Logo_Open_Hardware_Large") (at 25.4 64.77 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board no) (dnp no) (fields_autoplaced)
     (uuid d9f19111-394e-4537-83d0-cec1332ea7aa)
     (property "Reference" "LOGO10" (at 25.4 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -595,6 +622,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Sim.Enable" "0" (at 25.4 64.77 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Placed" "False" (at 25.4 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
