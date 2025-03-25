@@ -55,12 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "hole_clearance|206597987|36594388|4e661475-9956-49a4-80a2-99bd8d014995|ca416fd8-66c0-4319-8842-5e812baecf76",
-        "hole_clearance|206797987|36594388|4e661475-9956-49a4-80a2-99bd8d014995|4e958f2b-0e46-42f7-b1e8-48de7554a5de",
-        "hole_clearance|212197987|36594388|18e95893-06fe-42f8-a5f6-8416d31ecfaf|807be4d5-d323-4f44-b75e-9295ca0b9e85",
-        "hole_clearance|212397987|36594388|18e95893-06fe-42f8-a5f6-8416d31ecfaf|6b21f5f1-1160-4cbc-8f98-23de9910d21d"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },

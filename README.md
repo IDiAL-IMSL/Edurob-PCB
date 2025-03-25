@@ -1,5 +1,5 @@
 # Edurob-PCB
 PCB-Files for Edurob
 
-![top](IDiAL-IMSL.github.io/Edurob-PCB/top.png)
-![bottom](IDiAL-IMSL.github.io/Edurob-PCB/bottom.png)
+![top](IDiAL-IMSL.github.io/Edurob-PCB/Edurob/Images/Edurob_Top.png)
+![bottom](IDiAL-IMSL.github.io/Edurob-PCB/Edurob/Images/Edurob_Bottom.png)
